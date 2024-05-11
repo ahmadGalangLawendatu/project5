@@ -1,0 +1,4 @@
+flask
+psycopg2==2.9.1
+python-decouple==3.5
+flask_sqlalchemy
